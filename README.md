@@ -39,7 +39,13 @@ I enjoy taking ideas from system design to implementation—building AI-powered 
 
 ### Project Intern — Indian Space Research Organisation (ISRO)
 
-Contributing as a project intern in an ISRO-associated project environment. This experience is part of my professional exposure to structured technical work and project-based problem solving.
+Developed **MiniYOLOv8**, a from-scratch, anchor-free object detection pipeline in PyTorch to localize four Peripheral Docking Target alignment-ring classes across 746 spacecraft-docking images containing 4,076 annotated bounding boxes.
+
+- Achieved **0.7659 mAP@0.5**, **0.904 mean IoU**, and **82.1% classification accuracy**, with **0.975 precision at confidence ≥ 0.9**.
+- Built a 19.5M-parameter detector using zero pretrained weights.
+- Reduced parameters by **74.5%**, from 76.7M to 19.5M, using a 32-channel CSPDarknet/PAN-FPN backbone.
+- Optimized inference with spatially pruned Non-Maximum Suppression, achieving up to **23.5× speedup** at 3,000 boxes (1,079.9 ms → 46.0 ms).
+- Implemented memoized anchor-grid generation, delivering a further **7.7× speedup**.
 
 ### AI Intern — Esttareal Solutions Pvt. Ltd. | AEC Industry
 
