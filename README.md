@@ -110,7 +110,6 @@ A simulation-based research project that trains TD3, PPO and DQN agents to selec
 | Generative AI | LLM applications, RAG, semantic retrieval, reranking, GraphRAG |
 | AI infrastructure | Qdrant, LiteLLM, NetworkX, Streamlit |
 | Software development | Next.js, React, Node.js, Express |
-| Data & databases | MySQL, MongoDB, SQLite |
 | Engineering | Git, GitHub, REST APIs, authentication, testing |
 
 ## What I'm Working Toward
