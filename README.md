@@ -9,7 +9,7 @@
 
 ### AI/ML Engineer · Software Developer
 
-**Building intelligent systems and practical software for real-world problems.**
+
 
 <p>
   <a href="https://github.com/Ashtro30">
