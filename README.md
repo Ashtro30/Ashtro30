@@ -35,6 +35,21 @@ I enjoy taking ideas from system design to implementation—building AI-powered 
 - Experience across AI-focused project work and software development
 - Currently strengthening my foundations in algorithms, system design, and production-minded engineering
 
+## Work Experience
+
+### Project Intern — Indian Space Research Organisation (ISRO)
+
+Contributing as a project intern in an ISRO-associated project environment. This experience is part of my professional exposure to structured technical work and project-based problem solving.
+
+### AI Intern — Esttareal Solutions Pvt. Ltd. | AEC Industry
+
+Worked on AI-focused workflows for the Architecture, Engineering and Construction (AEC) domain, exploring how AI tools can support procurement automation and data-driven workflows.
+
+- Developed a local Retrieval-Augmented Generation (RAG) assistant for construction-related documents and project information.
+- Worked with Python, LlamaIndex and Ollama to explore document ingestion, embeddings, retrieval and grounded question answering.
+- Focused on local model execution and keeping project information within a controlled environment.
+- Explored data preprocessing and AI-assisted information retrieval for construction workflows.
+
 ## Featured Projects
 
 ### [Enterprise RAG Engineering Platform](https://github.com/Ashtro30/rag-engineering-platform)
