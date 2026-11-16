@@ -61,6 +61,31 @@ A healthcare-focused prototype that helps hospitals identify compatible, nearby,
 
 > LifeLink is a prototype and decision-support project, not a medical device. Medical eligibility and compatibility decisions require qualified clinical review. Its organ module records consent and does not allocate or match organs.
 
+### [AshtroAI — Autonomous Agent Platform](https://github.com/Ashtro30/AshtroAI)
+
+A LangGraph-based agent that follows a Reason → Plan → Act → Verify loop, uses local document retrieval and persistent memory, and can execute bounded tools for analysis, reports and task planning.
+
+- Cyclic agent workflow with conditional routing, recovery and iteration limits
+- Short-term session context and ChromaDB-backed knowledge / episodic memory
+- Tool registry for RAG search, Python analysis, report generation and task management
+- Ollama or cloud LLMs through LiteLLM; Streamlit interface with execution traces
+- A 15-task evaluation harness and pytest coverage
+
+**Technologies:** Python · LangGraph · LiteLLM · ChromaDB · Sentence Transformers · Streamlit · pytest
+
+### [CHEMAURA — Reinforcement Learning for Chemotherapy Scheduling](https://github.com/Ashtro30/CHEMAURA)
+
+A simulation-based research project that trains TD3, PPO and DQN agents to select daily chemotherapy doses for heterogeneous virtual patients using a four-state tumor / healthy-tissue / immune / drug ODE environment.
+
+- Gymnasium environment with continuous and discrete action spaces
+- Patient-parameter randomization and reward design balancing tumor burden, toxicity and drug exposure
+- Evaluation against fixed-dose baselines on a 100-patient simulated cohort
+- Reproducible training outputs, per-patient metrics and analysis plots
+
+**Technologies:** Python · Gymnasium · Stable-Baselines3 · TD3 · PPO · DQN · SciPy · NumPy · Pandas
+
+> CHEMAURA is strictly a simulator-based research prototype. Its outputs are not clinical evidence, treatment recommendations or a medical decision tool.
+
 ## Technical Interests
 
 | Area | Tools and technologies |
