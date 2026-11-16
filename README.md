@@ -89,6 +89,6 @@ A healthcare-focused prototype that helps hospitals identify compatible, nearby,
 
 <div align="center">
 
-*Build with curiosity. Engineer with purpose.*
+*TRUST THE PROCESS*
 
 </div>
